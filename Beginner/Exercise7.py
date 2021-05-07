@@ -5,5 +5,5 @@ def appearance(str, word):
   elif(count < 2): print(word, "appeared", count, "time")
   else: print(word, "appeared", count ,"times")
 str = "Emma is good developer. Emma is a writer"
-word = "Emma"
+word = "ádasdasd"
 appearance(str, word)

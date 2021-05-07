@@ -10,7 +10,7 @@ def reverse(num):
     return True
   else:
     return False    
-print("The original and reverse number is", "the" if reverse(121) else "not", "same")
-print("The original and reverse number is", "the" if reverse(125) else "not", "same")
+print("The original and reverse number is", "the" if reverse(1212) else "not", "same")
+print("The original and reverse number is", "the" if reverse(1255) else "not", "same")
 
   
